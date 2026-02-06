@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React Quiz App with AWS Amplify and GraphQL API.
+          Edit <code>src/App.js</code> ReactdeFran
         </p>
         <a
           className="App-link"
